@@ -11,6 +11,7 @@ switch (item) {
     case "sprit":
         alert("ini tidak sehat");
         break;
+
     default:
         alert("anda memasukan pilihan yang salah!");
         break;
